@@ -1,0 +1,13 @@
+0 Tomato
+1 Apple
+2 Grape
+3 Banana
+4 Watermelon
+5 Mango
+6 Carrot
+7 Cucumber
+8 Pineapple
+9 Orange
+10 Broccoli
+11 Lemon
+12 Strawberry
